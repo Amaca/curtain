@@ -1,4 +1,5 @@
-# Three.js Journey
+# Curtain
+Shaders experiment
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
