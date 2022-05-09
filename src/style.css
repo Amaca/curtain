@@ -24,13 +24,13 @@ body
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 3vw;
+    font-size: 2vw;
     text-align: center;
     color: #ffffff;
     mix-blend-mode: soft-light;
     font-family: 'Oxygen', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 3vw;
+    letter-spacing: 4vw;
     opacity: 0.4;
 }
 

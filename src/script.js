@@ -14,8 +14,8 @@ gui.close();
 const debugObject = {};
 
 // Color
-debugObject.depthColor = '#6b0034';
-debugObject.surfaceColor = '#000000';
+debugObject.depthColor = '#3b006b';
+debugObject.surfaceColor = '#080718';
 debugObject.backgroundColor = '#ffffff';
 debugObject.scaleY = 1;
 debugObject.scaleX = 1;
@@ -58,7 +58,7 @@ const material = new THREE.ShaderMaterial({
         uDepthColor: { value: new THREE.Color(debugObject.depthColor )},
         uSurfaceColor: { value: new THREE.Color(debugObject.surfaceColor )},
         uColorOffset: { value: 0.096 },
-        uColorMultiplier: { value: 3.117 },
+        uColorMultiplier: { value: 4.469 },
         uNoiseFrequency: {value: 4.66},
         uNoiseAmplitude: {value: 0.09},
         uElevation: {value: -0.11},
