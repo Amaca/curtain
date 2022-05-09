@@ -27,10 +27,11 @@ body
     font-size: 3vw;
     text-align: center;
     color: #ffffff;
-    
+    mix-blend-mode: soft-light;
     font-family: 'Oxygen', sans-serif;
     text-transform: uppercase;
     letter-spacing: 3vw;
+    opacity: 0.4;
 }
 
 .main-title img {
