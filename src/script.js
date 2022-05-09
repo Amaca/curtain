@@ -60,7 +60,7 @@ const material = new THREE.ShaderMaterial({
         uColorOffset: { value: 0.096 },
         uColorMultiplier: { value: 4.469 },
         uNoiseFrequency: {value: 4.66},
-        uNoiseAmplitude: {value: 0.09},
+        uNoiseAmplitude: {value: 0.08},
         uElevation: {value: -0.11},
         uWave1Power: {value: 2.87},
         uWave2Power: {value: 2.75},
@@ -68,7 +68,7 @@ const material = new THREE.ShaderMaterial({
         uBorderNoiseAmplitude: {value: 0.12},
         uSpeed: {value: 1.07},
         uRadiusX: {value: 0.02},
-        uRadiusY: {value: 0.3},
+        uRadiusY: {value: 0.2},
     },
     side: THREE.DoubleSide,
 });
