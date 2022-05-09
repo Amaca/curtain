@@ -1,5 +1,5 @@
 # Aria
-demmo: https://amaca.github.io/curtain/
+demo: https://amaca.github.io/curtain/
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
